@@ -5,7 +5,7 @@ public class Lab {
      *
      * There is a special operator in programming languages called modulus, which provides the remainder
      * after a division, represented by %.
-     * For instance, 7%4=3,  7%3=1, 4%2=0, 5%2=1, etc.
+     * For instance, 7 %4=3,  7%3=1, 4%2=0, 5%2=1, etc.
      *
      * That operator, could be used to tell if a number is even or odd - a number that has a remainder of 0 when
      * divided by 2 is naturally even.
